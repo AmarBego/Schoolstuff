@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "6d9dcdf70ac7c49b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f33d7a7b833f2a4f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ccd436ab6e41a7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb48c354752ee08c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b376c465174423d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7080fb49b3579d6b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08cbb1ebb1ad6b93",
+    "type": "split",
+    "children": [
+      {
+        "id": "10e50749d83c5065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0dc4f0180181f0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f33d7a7b833f2a4f",
+  "lastOpenFiles": [
+    "Hello.md",
+    "test-korrketur-calculator.md"
+  ]
+}
